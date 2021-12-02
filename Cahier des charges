@@ -1,0 +1,37 @@
+« Développement d’un Réveil Intelligent »
+
+Contexte : Création d’un réveil à l’aide d’une carte arduino dans le cadre des projets de PeiP2
+
+Objectif : faciliter l’éveil des utilisateurs en leur procurant l'expérience la plus adaptée à leurs besoins possible.
+
+Besoins fonctionnels :
+  
+- Connexion possible avec une application de type calendrier servant de repère pour savoir à quel moment lancer la procédure de réveil.
+  
+- Présence d’une source de lumière permettant de réveiller l’utilisateur en simulant le lever du soleil
+
+- Mode d’alimentation non sur secteur
+
+- Produire un son agréable (--> connexion à une playlist ?)
+
+- fonction snooze
+
+- Possibilité de programmer le réveil directement dessus (?) ou au moins via le téléphone
+
+- Capter la radio
+
+- “Tracker” les habitudes de sommeil
+
+- Odeurs (si suffisament de temps)
+
+
+
+Contraintes :
+
+- Utilisation d’une carte Arduino
+
+- Production au plus faible coût possible
+
+- Module de communication sans fil (bluetooth, Wi-Fi…)
+
+- Respecter les deadlines
